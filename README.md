@@ -1,5 +1,4 @@
-# Da-hood-free-script
-Da hood free script
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
